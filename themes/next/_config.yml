@@ -295,7 +295,7 @@ mathjax:
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: 评论
   count: false
 
