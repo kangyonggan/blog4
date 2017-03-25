@@ -135,7 +135,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   Github: https://github.com/kangyonggan/
-  Book: http://kangyonggan.com:9090/
+  Book: http://book.kangyonggan.com/
 
 # Social Links Icons
 # Icon Mapping:
@@ -297,7 +297,7 @@ mathjax:
 disqus:
   enable: true
   shortname: 评论
-  count: true
+  count: false
 
 # Hypercomments
 #hypercomments_id:
