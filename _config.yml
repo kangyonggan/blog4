@@ -72,11 +72,13 @@ deploy:
   type: git
   repo: https://github.com/kangyonggan/kangyonggan.github.io.git
 
-# rss
+Plugins:
+  hexo-generator-feed
+
+#Feed Atom
 feed:
   type: atom
   path: atom.xml
   limit: 20
-  hub:
-  content:
+  
 
