@@ -88,4 +88,10 @@ search:
   format: html
   limit: 10000
 
+# Sitemap Setting
+sitemap:
+	path: sitemap.xml
+baidusitemap:
+	path: baidusitemap.xml
+
 
