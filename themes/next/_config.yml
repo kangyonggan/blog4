@@ -29,7 +29,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -53,7 +53,7 @@ menu:
 #   When an question mask icon presenting up means that the item has no mapping icon.
 menu_icons:
   enable: true
-  #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
+  # KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
   categories: th
@@ -291,12 +291,12 @@ mathjax:
 baidu_analytics: 9a7a48ed52f9726fed48a0955ae72adf
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+#duoshuo_shortname: kangyonggan.com
 
 # Disqus
 disqus:
   enable: false
-  shortname: 
+  shortname: kangyonggan.com
   count: false
 
 # Hypercomments
@@ -307,9 +307,10 @@ disqus:
 
 # changyan
 changyan:
-  enable: false
-  appid:
-  appkey:
+  enable: true
+  appid: cysUPTH1C
+  appkey: 5bc9ff33a197c46de7b38cc87994bf4f
+  count: true
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
